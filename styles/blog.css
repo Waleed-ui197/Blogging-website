@@ -1,0 +1,28 @@
+/* Inherit basic styles from previous CSS */
+
+/* Blog Page Styling */
+.blog-posts {
+    padding: 20px;
+  }
+  
+  .blog-posts .post {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+  }
+  
+  .blog-posts .post h2 {
+    color: #333;
+  }
+  
+  .blog-posts .post p {
+    color: #666;
+  }
+  
+  .blog-posts .post a {
+    text-decoration: none;
+    color: #1e90ff;
+  }
+  
